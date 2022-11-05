@@ -1,0 +1,22 @@
+<div class="flex-container">
+  <div appClickOutsideMethod1 (clickOutside)="clickedOutside1()">
+    <button (click)="clickButton1()">Methot 1</button>
+    <div class="something" *ngIf="show1">
+      something 1
+    </div>
+  </div>
+
+  <div appClickOutsideMethod2 (clickOutside)="clickedOutside2()">
+    <button (click)="clickButton2()">Methot 2</button>
+    <div class="something" *ngIf="show2">
+      something 2
+    </div>
+  </div>
+
+  <div>
+    <button (click)="clickButton3()">Methot 3</button>
+    <div class="something" *ngIf="show3">
+      something 3
+    </div>
+  </div>
+</div>

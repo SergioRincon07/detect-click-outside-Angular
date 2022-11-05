@@ -1,0 +1,23 @@
+.flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+    justify-content: space-between;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+  .flex-container > div > button {
+    padding: 10px 10px 10px 10px;
+  }
+
+  .something {
+    background-color: #329e3b;
+    margin: 20px;
+    padding: 20px 20px 300px 20px;
+    font-size: 30px;
+  }
