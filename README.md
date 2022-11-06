@@ -1,7 +1,7 @@
 
 <div align='center'>
   <img height="60" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png">
-  <h1>Three Ways to Detect Click Outside in Angular</h1>
+  <h1>Three Ways to Detect Click Outside</h1>
 
   <sup>If you liked or learn something, leave your like :star:.</sup>
 
