@@ -7,7 +7,7 @@ import { Component, HostListener } from '@angular/core';
 })
 export class AppComponent {
 
-    // ----------------------- Method 2
+    // ----------------------- Method 1
   show1 = false;
   clickButton1() {
     this.show1 = !this.show1;
