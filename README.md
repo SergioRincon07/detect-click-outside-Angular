@@ -12,10 +12,10 @@
 
 ## Index
 
-- [Index](#Index)
-  - [Method 1](#Method1)
-  - [Method 2](#Method2)
-  - [Method 3](#Method3)
+- [Index](#index)
+  - [Method 1](#method-1)
+  - [Method 2](#method-2)
+  - [Method 3](#method-3)
 
 ---
 
