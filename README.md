@@ -1,3 +1,36 @@
+
+<div align='center'>
+  <img height="60" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png">
+  <h1>Three Ways to Detect Click Outside</h1>
+
+  <sup>If you liked or learn something, leave your like :star:.</sup>
+
+  <strong>Linkedin</strong>: [Linkedin/Sergio](https://www.linkedin.com/in/sergio-david-rincon-murcia/)<br />
+</div>
+
+---
+
+## Index
+
+- [Index](#Index)
+  - [Method 1](#Method1)
+  - [Method 2](#Method2)
+  - [Method 3](#Method3)
+
+---
+
+### Method 1
+
+
+**[⬆ Return to Index](#Index)**
+### Method 2
+
+**[⬆ Return to Index](#Index)**
+### Method 3
+
+**[⬆ Return to Index](#Index)**
+
+
 # DetectClickOutside
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
